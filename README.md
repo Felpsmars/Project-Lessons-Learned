@@ -1,6 +1,7 @@
 ## Habilidades
 
-Construção mini portifólio
+Tema: Construção de um mini portifólio.
+
 Habilidades testadas neste projeto:
 
 * Utilizar _HTML_ para construir páginas WEB.
