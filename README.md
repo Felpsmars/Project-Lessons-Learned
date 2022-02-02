@@ -1,6 +1,6 @@
 ## Habilidades
 
-Neste projeto, você será capaz de:
+Habilidades testadas neste projeto:
 
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
