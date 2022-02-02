@@ -1,5 +1,6 @@
 ## Habilidades
 
+Construção mini portifólio
 Habilidades testadas neste projeto:
 
 * Utilizar _HTML_ para construir páginas WEB.
